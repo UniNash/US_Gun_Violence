@@ -1,0 +1,27 @@
+City,County
+East St. Louis,St. Clair County
+Queens,Queens County
+Flour Bluff,Nueces County
+East Palo Alto,San Mateo County
+Skyway,King County
+Centreville,Fairfax County
+Manhattan,New York County
+Seat Pleasant,Prince George's County
+Lookout Valley,Hamilton County
+Allapattah,Miami-Dade County
+Springdale,Washington County
+Kinloch,St. Louis County
+Gates,Monroe County
+Tyrone,Fayette County
+Plantation,Broward County
+Mc Cool,Attala County
+Brandon,Rankin County
+Brownsville,Cameron County
+Mc Coll,Marlboro County
+Mccormick,McCormick County
+Mc Kees Rocks,Allegheny County
+Washington Park,St. Clair County
+Mc Gregor,McLennan County
+Cowley,Cowley County
+Willowbrook,DuPage County
+Goshen,Elkhart County
